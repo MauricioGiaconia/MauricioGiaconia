@@ -21,6 +21,7 @@ I am looking for new opportunities to continue growing as a professional in a ch
 ![My Skills](https://skillicons.dev/icons?i=nextjs,vite,mongodb)
 
  🚀What's next?
+
 ![My Skills](https://skillicons.dev/icons?i=python,typescript)
 
 📌 LinkedIn
