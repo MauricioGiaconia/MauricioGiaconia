@@ -14,8 +14,11 @@ I am looking for new opportunities to continue growing as a professional in a ch
 
 🧱 Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,php,react,redux,express,sequelize,postgres,mysql,cs,dotnet,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,react,redux,express,sequelize,postgres,mysql,cs,dotnet,html,css)]
 
+📚 What am I learning now?
+
+[![My Skills](https://skillicons.dev/icons?i=nextjs,vite,mongodb)]
 
 📌 LinkedIn
 
