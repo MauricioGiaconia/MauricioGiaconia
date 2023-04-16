@@ -1,4 +1,4 @@
-**#Hello and welcome to my profile!**
+#Hello and welcome to my profile!
 
 👨‍💻 Who am I?
 
