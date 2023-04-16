@@ -1,16 +1,17 @@
-### Hi there 👋
+Hello and welcome to my profile! 👋
+👨‍💻 Who am I?
+I am Mauricio Giaconía, a passionate full-stack web developer with a solid academic background in systems analysis and application development. With a recently completed bootcamp, I am prepared to tackle the most demanding challenges in the world of software development.
 
-<!--
-**MauricioGiaconia/MauricioGiaconia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪 Why me?
+I am a highly competent developer, with skills in PHP, JavaScript, MySQL, HTML, and CSS. I have developed projects in both React and .NET and am familiar with key technologies such as C#, Unity, SQLite, Postgres, GIT, Redux, Express, NodeJS, and Sequelize. I also keep up-to-date with the latest trends and advancements in the world of software development.
 
-Here are some ideas to get you started:
+👨‍💼 Experience
+I have worked as a web developer, implementing innovative solutions to meet my clients' needs. My focus on teamwork and collaboration has allowed me to contribute to successful projects and achieve common goals. I am a creative problem solver and always willing to take on new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Seeking opportunities
+I am looking for new opportunities to continue growing as a professional in a challenging environment that allows me to put my skills and knowledge into practice. If you are looking for a full-stack web developer with a solid technical background and exceptional interpersonal skills, don't hesitate to contact me!
+
+🧱 Technologies and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Thanks for visiting my profile! 😃
