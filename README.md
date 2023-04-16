@@ -1,4 +1,5 @@
 Hello and welcome to my profile! 👋
+
 👨‍💻 Who am I?
 I am Mauricio Giaconía, a passionate full-stack web developer with a solid academic background in systems analysis and application development. With a recently completed bootcamp, I am prepared to tackle the most demanding challenges in the world of software development.
 
