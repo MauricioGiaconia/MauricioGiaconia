@@ -16,6 +16,6 @@ I am looking for new opportunities to continue growing as a professional in a ch
 
 [![My Skills](https://skillicons.dev/icons?i=js,php,react,redux,express,sequelize,postgres,mysql,cs,dotnet,html,css)](https://skillicons.dev)
 
-[![My linkedIn profile](https://skillicons.dev/icons?i=linkedIn)](https://www.linkedin.com/in/mauricio-giaconia/)
+[![My linkedIn profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauricio-giaconia/)
 
 Thanks for visiting my profile! 😃
