@@ -20,6 +20,9 @@ I am looking for new opportunities to continue growing as a professional in a ch
 
 ![My Skills](https://skillicons.dev/icons?i=nextjs,vite,mongodb)
 
+ 🚀What's next?
+![My Skills](https://skillicons.dev/icons?i=python,typescript)
+
 📌 LinkedIn
 
 [![My linkedIn profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauricio-giaconia/)
