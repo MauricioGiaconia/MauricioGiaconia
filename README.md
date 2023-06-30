@@ -22,7 +22,7 @@ I am looking for new opportunities to continue growing as a professional in a ch
 
 📚 What am I learning now?
 
-![My Skills](https://skillicons.dev/icons?i=nextjs,vite,mongodb)
+![My Skills](https://skillicons.dev/icons?i=nextjs,mongodb)
 
  🚀 What's next?
 
