@@ -12,21 +12,11 @@ I am a highly competent developer, with skills in PHP, JavaScript, MySQL, HTML, 
 
 I have worked as a web developer, implementing innovative solutions to meet my clients' needs. My focus on teamwork and collaboration has allowed me to contribute to successful projects and achieve common goals. I am a creative problem solver and always willing to take on new challenges.
 
-🌱 Seeking opportunities
-
-I am looking for new opportunities to continue growing as a professional in a challenging environment that allows me to put my skills and knowledge into practice. If you are looking for a full-stack web developer with a solid technical background and exceptional interpersonal skills, don't hesitate to contact me!
 
 🧱 Technologies and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,php,react,redux,express,sequelize,postgres,mysql,cs,dotnet,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,php,react,redux,express,sequelize,postgres,mysql,mongo,ruby,html,css)
 
-📚 What am I learning now?
-
-![My Skills](https://skillicons.dev/icons?i=nextjs,mongodb)
-
- 🚀 What's next?
-
-![My Skills](https://skillicons.dev/icons?i=python,typescript)
 
 📌 LinkedIn
 
