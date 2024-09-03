@@ -15,7 +15,7 @@ At the moment I'm working as software developer in Bsale, implementing innovativ
 
 🧱 Technologies and Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,php,react,svelte,redux,express,sequelize,postgres,mysql,mongo,ruby,golang,html,css)
+![My Skills](https://skillicons.dev/icons?i=js,,ruby,golang,react,svelte,redux,express,postgres,mysql,mongo,html,css)
 
 
 📌 LinkedIn
