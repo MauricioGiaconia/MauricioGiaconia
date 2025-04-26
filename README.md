@@ -25,7 +25,7 @@ At the moment I'm working as software developer in Bsale, implementing innovativ
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis) </br>
 
 ### Cloud & DevOps </br>  
-![My Skills](https://skillicons.dev/icons?i=aws,github,docker) </br>
+![My Skills](https://skillicons.dev/icons?i=aws,firebase,github,docker) </br>
 
 ## Tools</br> 
 ![My Skills](https://skillicons.dev/icons?i=git,postman)
