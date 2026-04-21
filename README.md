@@ -16,7 +16,7 @@ At the moment I'm working as software developer in Bsale, implementing innovativ
 ## 🧱 Technologies and Tools
 
 ### Backend </br> 
-![My Skills](https://skillicons.dev/icons?i=golang,nodejs,ruby,express,rabbitmq) </br>
+![My Skills](https://skillicons.dev/icons?i=cs,golang,nodejs,express,rabbitmq) </br>
 
 ### Frontend </br>  
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,tailwind,redux,html,css) </br>
