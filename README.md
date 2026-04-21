@@ -1,6 +1,6 @@
 # Mauricio Giaconía
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=Full+Stack+Developer;.+NET+%7C+Node.js+%7C+Go;Always+Learning)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=Software+Developer;.+NET+%7C+Node.js+%7C+Go;Always+Learning)
 
 Full Stack Developer focused on building scalable systems and clean architectures.
 
