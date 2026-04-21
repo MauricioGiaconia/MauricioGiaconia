@@ -1,37 +1,48 @@
-# **Hello and welcome to my profile!** :wave:
+# Mauricio Giaconía
 
-## 👨‍💻 Who am I?
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=36BCF7&lines=Full+Stack+Developer;.+NET+%7C+Node.js+%7C+Go;Always+Learning)
 
-I am Mauricio Giaconía, a passionate full-stack web developer with a solid academic background in systems analysis and application development.
+Full Stack Developer focused on building scalable systems and clean architectures.
 
-## 💪 Why me?
+---
 
-I am a highly competent developer, with skills in JavaScript, Ruby, GoLang, PHP, SQL, React, Svelte, HTML and CSS. I also keep up-to-date with the latest trends and advancements in the world of software development.
+## About Me
 
-## 👨‍💼 Experience
+Software developer with experience in designing and building applications using modern technologies. I work with both monolithic and microservices architectures, focusing on maintainability, performance, and scalability.
 
-At the moment I'm working as software developer in Bsale, implementing innovative solutions to meet the clients needs. My focus on teamwork and collaboration has allowed me to contribute to successful projects and achieve common goals. I am a creative problem solver and always willing to take on new challenges.
+I follow best practices such as SOLID principles and clean code, and I am constantly improving my skills to stay aligned with current industry standards.
 
+---
 
-## 🧱 Technologies and Tools
+## Experience
 
-### Backend </br> 
-![My Skills](https://skillicons.dev/icons?i=dotnet,cs,golang,nodejs,express,rabbitmq) </br>
+Currently working as a Software Developer, contributing to the design and implementation of solutions that solve real-world problems. I collaborate closely with teams to deliver high-quality software and continuously improve development processes.
 
-### Frontend </br>  
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,svelte,tailwind,redux,html,css) </br>
+---
 
-### Database </br>  
-![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis) </br>
+## Tech Stack
 
-### Cloud & DevOps </br>  
-![My Skills](https://skillicons.dev/icons?i=aws,firebase,github,docker) </br>
+### Backend
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,golang,nodejs,express,ruby,rabbitmq)
 
-## Tools</br> 
-![My Skills](https://skillicons.dev/icons?i=git,postman)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=js,ts,react,svelte,tailwind,redux,html,css)
 
-## 📌 LinkedIn
+### Database
+![Database](https://skillicons.dev/icons?i=postgres,mysql,mongo,redis)
 
-[![My linkedIn profile](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauricio-giaconia/)
+### Cloud & DevOps
+![Cloud](https://skillicons.dev/icons?i=aws,firebase,github,docker)
 
-Thanks for visiting my profile! 😃
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,postman)
+
+---
+
+## Contact
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mauricio-giaconia/)
+
+---
+
+Thanks for visiting my profile.
